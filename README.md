@@ -95,8 +95,3 @@ Después de eso, abrí el navegador en `http://localhost:8080` y vi mi página f
 Docker me pareció una herramienta muy poderosa y moderna para los desarrolladores.  
 Permite crear entornos reproducibles, portables y más seguros.  
 Creo que es muy útil tanto para proyectos personales como para empresas, sobre todo cuando se trabaja con varios servicios o bases de datos.
-
----
-
-## 🔗 Entrega
-Sube este archivo `README.md` al repositorio junto con tus capturas en una carpeta `images/`, y comparte el enlace del repo para la revisión.
